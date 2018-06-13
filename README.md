@@ -5,3 +5,6 @@ The Decisiontree.py file represents the usage of decision tree algorithm in mach
 The most widely used terms and packages for machine learning in python are 
 ### sklearn(scikit library), pandas(library for data analysis), train data, test data, predictors, targets, model accuracy.
 It is a good introductory algorithm which familiarizes the often used terms in machine learning in a practical way. There is chunk of description above the code which explains the terms in a way. 
+
+# 2) Random Forest
+Unlike decision tree, random forest uses a more complex algorithm to predict the desired output. Random forest performs better than decision tree. Just compare the MAE(mean absolute error) of the two algorithms to practically witness the enhanced prediction. :)
